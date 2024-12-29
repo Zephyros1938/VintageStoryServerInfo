@@ -1,4 +1,4 @@
-# Serene Hermit World
+# Serene Hermit World ㅤ
 
 Welcome to Zephyros1938's Vintage Story Server!
 Looking for a home where survival feels *authentic*, yet *manageable*? Our server is designed to keep the vanilla essence of ***Vintage Story*** alive while enhancing the experience with carefully chosen quality-of-life mods.
