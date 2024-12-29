@@ -9,8 +9,8 @@ Looking for a home where survival feels *authentic*, yet *manageable*? Our serve
 - **🌟 No Wipe**
 
 ## Mods
-- [**🛏 BedRespawn (Davis)**](https://mods.vintagestory.at/bedrespawnner); Set your spawn point conveniently by sleeping.
-- [**🪢 Grass To Ropes (BulletSponge)**](https://mods.vintagestory.at/show/mod/16830); Easily craft rope with dry grass.
+- 🛏 [**BedRespawn (Davis)**](https://mods.vintagestory.at/bedrespawnner); Set your spawn point conveniently by sleeping.
+- 🪢 [**Grass To Ropes (BulletSponge)**](https://mods.vintagestory.at/show/mod/16830); Easily craft rope with dry grass.
 
 ## Direct Connections
 - **IP**: `vintagestory.zephyros1938.org`
